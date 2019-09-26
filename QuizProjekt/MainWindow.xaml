@@ -12,6 +12,7 @@
         <Button Content="Button" HorizontalAlignment="Left" Height="70" Margin="414,139,0,0" VerticalAlignment="Top" Width="187"/>
         <Button Content="Button" HorizontalAlignment="Left" Height="70" Margin="198,237,0,0" VerticalAlignment="Top" Width="187"/>
         <Button Content="Button" HorizontalAlignment="Left" Height="70" Margin="414,237,0,0" VerticalAlignment="Top" Width="187"/>
+        <Label Content="du hrnson&#xD;&#xA;" HorizontalAlignment="Left" Height="31" Margin="298,35,0,0" VerticalAlignment="Top" Width="185"/>
 
     </Grid>
 </Window>
